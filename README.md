@@ -1,6 +1,6 @@
 # SwinIR 学习与复现笔记（SwinIR-learning-explanation）
 
-作者：Jackson KK  
+作者：[Jackson ZHOU](https://github.com/Jackksonns)  
 仓库地址：[https://github.com/Jackksonns/SwinIR-learning-explanation](https://github.com/Jackksonns/SwinIR-learning-explanation)
 
 ---
